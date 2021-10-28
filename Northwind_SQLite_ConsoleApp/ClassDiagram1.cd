@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Northwind_SQLite_ConsoleApp.DMS">
+    <Position X="3.25" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAABAAAAAAAAAAAAAQAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>DMS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Northwind_SQLite_ConsoleApp.Employees">
+    <Position X="8.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAEAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Employees.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Northwind_SQLite_ConsoleApp.EmployeeDal">
+    <Position X="6" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EmployeeDal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
